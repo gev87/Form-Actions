@@ -1,0 +1,18 @@
+{
+  "name": "mutation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "better-sqlite3": "^9.4.3",
+    "cloudinary": "^2.7.0",
+    "next": "14.3.0-canary.59",
+    "react": "19.0.0-beta-4508873393-20240430",
+    "react-dom": "19.0.0-beta-4508873393-20240430"
+  }
+}
